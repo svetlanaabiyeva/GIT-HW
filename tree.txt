@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 dcfdskjhkj
 dsfds
 jhkjhsdfsd
 gfh
+=======
+tree
+a
+gh
+kjhk
+>>>>>>> nice_feature
+khkjh
